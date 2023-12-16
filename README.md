@@ -1,2 +1,2 @@
 # Phosphoruse.github.io
-This is my first repository. It has BigBlue exercises in it.
+This is my first repository. It has my projectexercises in it.
